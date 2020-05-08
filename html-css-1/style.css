@@ -1,0 +1,109 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 0px;
+    justify-content: space-between;
+}
+
+.company {
+ font-size: 40px;
+color: white;
+margin-left: 30px;
+}
+
+.links {
+    display: flex;
+margin-right: 30px;
+}
+
+.link {
+font-size: 20px;
+color: lightgray;
+margin-right: 10px;
+}
+
+.title {
+    height: 400px;
+    background-color: black;
+    text-align: center;
+    width: 100vw;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 100px;
+    color:  #ffff66;
+}
+
+.teals {
+display: flex;
+justify-content: space-evenly;
+width: 100vw;
+margin-bottom: 50px;
+}
+
+.teal {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 10%;
+}
+.peaches {
+display: flex;
+justify-content: space-evenly;
+width: 100vw;
+margin-bottom: 50px;
+}
+
+.peach {
+height: 300px;
+width: 500px;
+background-color: sandybrown;
+}
+
+.third {
+display: flex;
+justify-content: space-evenly;
+width: 100vw;
+
+}
+
+.words {
+height: 300px;
+width: 500px;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+}
+
+h2 {
+    font-size: 15px;
+}
+.images {
+    height: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+height: 200px;
+width: 350px;
+}
+ .footer {
+     background-color: gray;
+     height: 100px;
+     width: 100vw;
+ }
